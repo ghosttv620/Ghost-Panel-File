@@ -1,0 +1,42 @@
+{
+  "categories": [
+    {
+      "id": "software",
+      "name": "সফটওয়্যার",
+      "description": "প্রয়োজনীয় সফটওয়্যার সংগ্রহ",
+      "poster": "https://example.com/software-poster.jpg",
+      "files": [
+        {
+          "name": "অ্যাপ ইনস্টলার.exe",
+          "url": "https://example.com/app.exe",
+          "description": "উইন্ডোজের জন্য ইনস্টলার",
+          "size": 25600000,
+          "date": "২০২৬-০৭-১৭"
+        },
+        {
+          "name": "ডকুমেন্টেশন.pdf",
+          "url": "https://example.com/doc.pdf",
+          "description": "ব্যবহারকারী গাইড",
+          "size": 1200000,
+          "date": "২০২৬-০৭-১৬"
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "name": "গেমস",
+      "description": "মজার গেম সংগ্রহ",
+      "poster": "https://example.com/games-poster.jpg",
+      "files": [
+        {
+          "name": "সুপার গেম.apk",
+          "url": "https://example.com/game.apk",
+          "description": "অ্যান্ড্রয়েড গেম",
+          "size": 45000000,
+          "date": "২০২৬-০৭-১৫"
+        }
+      ]
+    }
+    // 🔥 আপনি চাইলে আরও ক্যাটাগরি যোগ করুন – অসীম
+  ]
+}
